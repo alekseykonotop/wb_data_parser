@@ -1,3 +1,5 @@
 .venv/
 .DS_Store
 notes.txt
+geckodriver.log
+geckodriver
