@@ -8,4 +8,5 @@
     - deactivate  # деактивация вирт.окр когда нужно выйти
 - обновить pip до последней верси: pip3 install --upgrade pip
 - Установить Selenium: pip install selenium
-- Скачать нужную версию Google ChromeDriver с сайта: https://chromedriver.chromium.org/downloads
+- Установить pygeckodriver: pip install pygeckodriver
+- Скачать версию geckodriver для Firefox с сайта: https://github.com/mozilla/geckodriver/releases
