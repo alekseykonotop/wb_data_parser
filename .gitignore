@@ -5,3 +5,4 @@ geckodriver.log
 geckodriver
 .ipynb_checkpoints/
 urls_to_parse_data.txt
+goods_data.csv
