@@ -3,3 +3,5 @@
 notes.txt
 geckodriver.log
 geckodriver
+.ipynb_checkpoints/
+urls_to_parse_data.txt
